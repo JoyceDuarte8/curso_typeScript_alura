@@ -1,0 +1,3 @@
+
+Este trata-se de um curso denominado "TypeScript parte 1: evoluindo seu JavaScript", disposto na plataforma da Alura. Em que, escrevendo em TypeScript é feito uma compilação que cria de forma automática uma pasta com os mesmos arquivos, em formato de JavaScript. Os benefícios de utilizar o typeScript consiste no feedback rápido dos erros de programação, além disso, também possui um autocomplete. 
+Neste, é estabelecido as regras de negócio, sendo uma delas que não permite alterar os dados do input e que podemos ver a quantidade.
